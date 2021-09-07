@@ -1,3 +1,4 @@
 # website
 
-my personal website that will house my portfolio
+This is my personal website built using React, Tailwind CSS.
+It is also my first journey to a React project.
