@@ -14,6 +14,8 @@ export default function App() {
      <About />
      <Projects />
      <Contact />
+     <Skills />
+     <Testimonial />
     </div>
   );
 }
