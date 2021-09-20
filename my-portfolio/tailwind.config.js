@@ -15,7 +15,9 @@ module.exports = {
        '50%': '50%',
        '16': '4rem',
       },
-      
+      backgroundImage:{
+        'hero-pattern': "url('/src/img/logo.png')"
+      },
     },
   },
   variants: {},
